@@ -8,7 +8,8 @@ The backend API provides endpoints to:
 
 - Receive and save contact form messages to MongoDB  
 - Send email notifications when a new message is received  
-- Handle CORS for frontend requests  
+- Handle CORS for frontend requests
+- Deployed on Render
 
 ## Technologies Used
 
